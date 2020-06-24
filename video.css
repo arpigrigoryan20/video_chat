@@ -1,0 +1,45 @@
+
+.main{
+
+}
+
+a{
+    display: block;
+    text-decoration: none;
+    font-size: 20px;
+    color:rgba(121, 117, 117, 0.808);
+}
+
+span {
+    display: block;
+    padding-top:5px;
+}
+p{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.chat{
+    display:flex;
+    width:100%;
+}
+
+.chat-content{
+    margin:0 15%;
+   
+}
+
+.ownvideo{
+    width:30%
+
+}
+
+.ownvideo video{
+    height: 300px;
+}
+
+.other{
+    width:30%
+   
+}
+    
